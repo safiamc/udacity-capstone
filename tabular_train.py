@@ -1,4 +1,5 @@
-### From https://github.com/aws/amazon-sagemaker-examples
+### From Amazon SageMaker Examples: Advanced Functionality, AutoGluon Tabular Containers
+### https://github.com/aws/amazon-sagemaker-examples/blob/master/advanced_functionality/autogluon-tabular-containers/scripts/tabular_train.py
 import argparse
 import os
 from pprint import pprint
