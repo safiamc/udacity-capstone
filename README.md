@@ -3,7 +3,7 @@ Capstone Project for Udacity AWS MLE Nanodegree
 ## Predicting Chronic Absenteeism
 This is a project using AutoGluon to create a model to predict whether a student is likely to be chronically absent
 ## Project Set Up and Installation
-Download the 2016 Parent and Family Involvement in Education survey data from the NHES at https://nces.ed.gov/nhes/data/2016/pfi/pfi_pu.csv and upload to S3
+Download the 2016 Parent and Family Involvement in Education survey data from the NHES at https://nces.ed.gov/nhes/data/2016/pfi/pfi_pu.csv and upload to S3.
 If desired, user's guide and codebooks are available at https://nces.ed.gov/nhes/dataproducts.asp
 In SageMaker Studio, open the Jupyter notebook with Python 3 (MXNet 1.8 Python 3.7 GPU Optimized) kernel and ml.t3.medium instance
 Install the dependencies in the code
